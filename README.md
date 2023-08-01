@@ -53,7 +53,7 @@
   <br> <img src="https://i.imgur.com/cwIIobS.png">
   
   Esta tradução foi criada por **[Klaus.Hoffman#1298]**.  <!-- (Coloque teu nome de usuário aqui) -->
-  Agradecimentos também ao $\textbf{\color[RGB]{0,255,127}undertheR}$ que criou esse mod maravilhoso e o disponibilizou para toda a comunidade! <!-- (Além de colocar o nome do criador do mod, coloque os demais creditos informando quem fez o que se possivel) -->
+  Agradecimentos também ao $\textbf{\color[RGB]{0,255,127}CRIADOR DO MOD}$ que criou esse mod maravilhoso e o disponibilizou para toda a comunidade! <!-- (Além de colocar o nome do criador do mod, coloque os demais creditos informando quem fez o que se possivel) -->
   E não menos importante, agradecemos também ao $\textbf{\color[RGB]{0,255,127}DanRamone}$ pelas artes maravilhoras que produziu para a postagem dos mods, como nesta, que você está vendo.
 
   <br> [<img src="https://i.imgur.com/Yy6yz4O.png">][Discord]  
