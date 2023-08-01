@@ -6,7 +6,7 @@
   $\textbf{\color[RGB]{0,255,127}que se reuniram para traduzir mods!}$ \
   $\textbf{\color[RGB]{0,255,127}➔ Temos vários mods traduzidos e muitos projetos em andamento.}$ \
   $\textbf{\color[RGB]{0,255,127}➔ Entre no grupo e fique atualizado sempre que uma tradução for lançada, tire dúvidas}$ \
-  $\textbf{\color[RGB]{0,255,127}faça sugestão de algum mod quequeira traduzido ou apenas converse sobre Stardew Valley.}$
+  $\textbf{\color[RGB]{0,255,127}faça sugestão de algum mod que queira traduzido ou apenas converse sobre Stardew Valley.}$
   
   <br> <br> <img src="https://i.imgur.com/Ze39v02.png">
   <br> Adicione aqui a descrição do mod que você traduziu
