@@ -63,7 +63,7 @@
 </div>
 
 [SMAPI]: https://www.nexusmods.com/stardewvalley/mods/2400
-[NOME DO MOD]: https://www.nexusmods.com/stardewvalley/mods/6462
+[NOME DO MOD]: https://www.nexusmods.com/stardewvalley/mods/
 [WinRAR]: https://www.rarlab.com/
 [7Zip]: https://www.7-zip.org/
 [SMAPI Log]: https://smapi.io/log
