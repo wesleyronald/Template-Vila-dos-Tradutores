@@ -74,4 +74,5 @@
 [#Dúvidas]: https://discord.com/channels/863968484723523614/863971190652796960
 [#Sugestões]: https://discord.com/channels/863968484723523614/863986111315574814
 [Discord]: https://discord.gg/yfz6pZZ6X6
-[Klaus.Hoffman#1298]: https://discordid.netlify.app/?id=550489600859045889 <!-- Coloque teu nome de usuário aqui e coloque seu ID do Discord em https://discordid.netlify.app/?id= -->
+[Klaus.Hoffman#1298]: https://discordid.netlify.app/?id=550489600859045889             
+<!-- Em cima coloque teu nome de usuário aqui e coloque seu ID do Discord em https://discordid.netlify.app/?id= -->
